@@ -1,0 +1,7 @@
+# Now add the names of files you want to ignore to the 
+# .gitignore file in a text editor.
+# Add the following, each on its own line:
+.DS_Store
+build
+target
+
